@@ -1,0 +1,94 @@
+{
+  "reviews": [
+    {
+      "professor": "Prof1",
+      "review": "Great professor...",
+      "subject": "Math",
+      "stars": 5
+    },
+    {
+      "professor": "Prof1",
+      "review": "Very Patient",
+      "subject": "English",
+      "stars": 2
+    },
+    {
+      "professor": "Prof1",
+      "review": "Too much work",
+      "subject": "Computer Science",
+      "stars": 3.5
+    },
+    {
+      "professor": "Prof2",
+      "review": "Interesting class",
+      "subject": "Geography",
+      "stars": 4.6
+    },
+    {
+      "professor": "Prof2",
+      "review": "Hard to follow",
+      "subject": "Biology",
+      "stars": 2.5
+    },
+    {
+      "professor": "Prof3",
+      "review": "Excellent teaching, but exams are tough.",
+      "subject": "Physics",
+      "stars": 4.8
+    },
+    {
+      "professor": "Prof4",
+      "review": "Engaging lectures but very little support outside class.",
+      "subject": "History",
+      "stars": 3.2
+    },
+    {
+      "professor": "Prof4",
+      "review": "Lots of group work, not much feedback.",
+      "subject": "Sociology",
+      "stars": 3
+    },
+    {
+      "professor": "Prof5",
+      "review": "Clear explanations, but the material was challenging.",
+      "subject": "Chemistry",
+      "stars": 4
+    },
+    {
+      "professor": "Prof5",
+      "review": "Always available for questions, highly recommended!",
+      "subject": "Psychology",
+      "stars": 5
+    },
+    {
+      "professor": "Prof6",
+      "review": "Fun class but grading is inconsistent.",
+      "subject": "Art",
+      "stars": 3.8
+    },
+    {
+      "professor": "Prof7",
+      "review": "Passionate about the subject, but lectures were hard to follow.",
+      "subject": "Philosophy",
+      "stars": 2.9
+    },
+    {
+      "professor": "Prof8",
+      "review": "Great professor, always pushing us to think critically.",
+      "subject": "Political Science",
+      "stars": 4.9
+    },
+    {
+      "professor": "Prof9",
+      "review": "Super organized, but assignments were overwhelming.",
+      "subject": "Economics",
+      "stars": 3.7
+    },
+    {
+      "professor": "Prof10",
+      "review": "Very supportive and patient, loved this class.",
+      "subject": "Nursing",
+      "stars": 4.7
+    }
+  ]
+}
