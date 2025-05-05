@@ -10,7 +10,7 @@ A modern AI-powered assistant that helps students find and evaluate professors b
 - 🔍 Semantic search capabilities
 - 📱 Responsive design
 
-![Demo gif](/demo.gif)
+![Demo gif](public/demo.gif)
 ## Tech Stack
 
 - **Frontend**: Next.js, Material UI, TypeScript
